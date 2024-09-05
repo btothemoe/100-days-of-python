@@ -4,7 +4,21 @@ Repository to hold all of my Python projects in the 100 days of python course
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This repository contains the Python code and projects I completed while working through Dr. Angela Yu's 100 Days of Python course on Udemy. The course covers a wide range of Python concepts, from basic syntax to more advanced topics like web scraping, API interaction, automation, and building games.
+
+Each folder corresponds to a specific day or project from the course, with explanations and comments included in the code for better understanding.
+
+Topics Covered:
+Python Fundamentals
+Functions and Loops
+Data Structures (Lists, Dictionaries, Tuples, etc.)
+Object-Oriented Programming
+File I/O
+Web Development with Flask
+Data Analysis with Pandas and NumPy
+APIs and Web Scraping
+Automation and Scripting
+Feel free to explore the projects, and I hope you find the solutions helpful!
 
 ## Getting Started
 
