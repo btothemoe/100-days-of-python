@@ -9,16 +9,15 @@ This repository contains the Python code and projects I completed while working 
 Each folder corresponds to a specific day or project from the course, with explanations and comments included in the code for better understanding.
 
 Topics Covered:
-Python Fundamentals
-Functions and Loops
-Data Structures (Lists, Dictionaries, Tuples, etc.)
-Object-Oriented Programming
-File I/O
-Web Development with Flask
-Data Analysis with Pandas and NumPy
-APIs and Web Scraping
-Automation and Scripting
-Feel free to explore the projects, and I hope you find the solutions helpful!
+* Python Fundamentals
+* Functions and Loops
+* Data Structures (Lists, Dictionaries, Tuples, etc.)
+* Object-Oriented Programming
+* File I/O
+* Web Development with Flask
+* Data Analysis with Pandas and NumPy
+* APIs and Web Scraping
+* Automation and Scripting
 
 ## Getting Started
 
